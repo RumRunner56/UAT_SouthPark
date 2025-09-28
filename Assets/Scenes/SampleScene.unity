@@ -462,7 +462,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DamageOnContact
   damage: 1
-  instantKill: 0
+  instantKill: 1
 --- !u!114 &418699120
 MonoBehaviour:
   m_ObjectHideFlags: 0
